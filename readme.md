@@ -5,6 +5,6 @@ Most of these repositories should not be taken seriously, but feel free to poke 
 
 I'm currently building [a tool](https://github.com/ndugger/webmake) 
 that compiles TypeScript into HTML Modules, which is an early-stage proposal. It shouldn't be 
-taken seriously, but I do have a working prototype running locally, which was exciting!
+taken seriously, but it does have a working implementation, though somewhat limited.
 
 Ask me about Web Components!
